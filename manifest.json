@@ -1,0 +1,19 @@
+{
+  "name": "三国PP",
+  "short_name": "三国PP",
+  "description": "魏蜀吴与吕布 · 四方逐鹿的即时战略小游戏",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "theme_color": "#360e0a",
+  "background_color": "#2e1c0e",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "icon-180.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
